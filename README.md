@@ -1,1 +1,1 @@
-# Komparasi-Bahasa-Pemrograman-C-Dan-Odin
+# Komparasi Bahasa Pemrograman C Dan Odin
